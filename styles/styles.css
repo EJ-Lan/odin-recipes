@@ -4,3 +4,15 @@
     font-family: "Times New Roman", sans-serif
 }
 
+p {
+    text-align: center
+}
+
+.title,
+.photo {
+    text-align: center
+}
+
+.description {
+    font-weight: bold
+}
